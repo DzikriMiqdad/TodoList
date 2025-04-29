@@ -29,7 +29,7 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ![Edit Task](app/edit_tasks.png)
 ## Contact Information
 
-- **Developer**: Shiv Prakash Verma
+- **Developer**: remonnn
 - **Email**: shivprakashlps@gmail.com
 - **College**: IIT Ropar
 ## Contributing
