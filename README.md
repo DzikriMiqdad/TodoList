@@ -34,7 +34,7 @@ This To-Do List app helps users manage tasks easily using **Java** and **SQLite*
 <hr>
 <p dir="auto"><strong>Author</strong>: Dzikri Miqdad Alhamdani | NIM 312310251<br>
 <strong>Course</strong>: Mobile Programming 2 - Android<br>
-<strong>Instructor</strong>: Eko Budiarto, S.Kom., M.M.<br>
+<strong>Instructor</strong>: Mr. Eko Budiarto, S.Kom., M.M.<br>
 <strong>Institution</strong>: Universitas Pelita Bangsa</p><hr>
 
 ## Feedback
