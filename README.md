@@ -40,4 +40,4 @@ This To-Do List app helps users manage tasks easily using **Java** and **SQLite*
 ## Feedback
 If you have any feedback, please reach out to us at me@remonn.org
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F&label=Visitors&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2FTodoList&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2FTodoList)
