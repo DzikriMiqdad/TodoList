@@ -25,7 +25,7 @@ This is a simple To-Do List application developed for Android using Java and SQL
 
 ## Screenshots
 ![ToDoList App Screenshot](app/Tasks.png)
-![Add List](app/add_tasks.png)
+![add_tasks](https://github.com/user-attachments/assets/4b17636c-d96a-4cfb-ba5a-e796e344c477)
 ![Edit Task](app/edit_tasks.png)
 
 ## Conclusion
