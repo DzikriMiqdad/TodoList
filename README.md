@@ -27,13 +27,17 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ![ToDoList App Screenshot](app/Tasks.png)
 ![Add List](app/add_tasks.png)
 ![Edit Task](app/edit_tasks.png)
-## Contact Information
 
-- **Developer**: Shiv Prakash Verma
-- **Email**: shivprakashlps@gmail.com
-- **College**: IIT Ropar
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
+## Conclusion
+This To-Do List app helps users manage tasks easily using **Java** and **SQLite**. With features like **priority, categories, and notes**, it enhances productivity and task organization. 🚀
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+<hr>
+<p dir="auto"><strong>Author</strong>: Dzikri Miqdad Alhamdani | NIM 312310251<br>
+<strong>Course</strong>: Mobile Programming 2 - Android<br>
+<strong>Instructor</strong>: Eko Budiarto, S.Kom., M.M.<br>
+<strong>Institution</strong>: Universitas Pelita Bangsa</p><hr>
+
+## Feedback
+If you have any feedback, please reach out to us at me@remonn.org
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F&label=Visitors&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F)
