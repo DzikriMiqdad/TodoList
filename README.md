@@ -24,9 +24,9 @@ This is a simple To-Do List application developed for Android using Java and SQL
 4. Start managing your tasks efficiently!
 
 ## Screenshots
-<img width="302" height="671" alt="Tasks_resize" src="https://github.com/user-attachments/assets/26f871d5-3bf1-441c-8589-94fd02fc3705" />
-<img width="302" height="671" alt="add_tasks_resize" src="https://github.com/user-attachments/assets/84c3a966-7872-44ed-85ab-1f6c4ab2e016" />
-<img width="302" height="671" alt="edit_tasks_resize" src="https://github.com/user-attachments/assets/6c2a7ffc-3066-4d9e-8df0-78365f22da3e" />
+<img width="300" height="671" alt="Tasks_resize" src="https://github.com/user-attachments/assets/26f871d5-3bf1-441c-8589-94fd02fc3705" />
+<img width="300" height="671" alt="add_tasks_resize" src="https://github.com/user-attachments/assets/84c3a966-7872-44ed-85ab-1f6c4ab2e016" />
+<img width="300" height="671" alt="edit_tasks_resize" src="https://github.com/user-attachments/assets/6c2a7ffc-3066-4d9e-8df0-78365f22da3e" />
 
 
 ## Conclusion
