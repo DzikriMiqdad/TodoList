@@ -24,9 +24,10 @@ This is a simple To-Do List application developed for Android using Java and SQL
 4. Start managing your tasks efficiently!
 
 ## Screenshots
-![ToDoList App Screenshot](app/Tasks.png)
-![Add List](app/add_tasks.png)
-![Edit Task](app/edit_tasks.png)
+<img width="302" height="671" alt="Tasks_resize" src="https://github.com/user-attachments/assets/26f871d5-3bf1-441c-8589-94fd02fc3705" />
+<img width="302" height="671" alt="add_tasks_resize" src="https://github.com/user-attachments/assets/84c3a966-7872-44ed-85ab-1f6c4ab2e016" />
+<img width="302" height="671" alt="edit_tasks_resize" src="https://github.com/user-attachments/assets/6c2a7ffc-3066-4d9e-8df0-78365f22da3e" />
+
 
 ## Conclusion
 This To-Do List app helps users manage tasks easily using **Java** and **SQLite**. With features like **priority, categories, and notes**, it enhances productivity and task organization. 🚀
